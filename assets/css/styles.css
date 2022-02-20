@@ -1,0 +1,18 @@
+.footer-basic .social *, .footer-basic .list-inline * {
+  cursor:pointer;
+}
+
+.footer-basic .social .icon:before {
+  cursor:pointer;
+}
+
+.highlight-phone__blood {
+  position:absolute;
+  width:95%;
+  height:93%;
+  top:70%;
+  border-radius:2px;
+  left:10%;
+  background-position:center;
+}
+
